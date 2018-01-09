@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 # Networking gems
 gem 'http'
 
+# Asynchronicity gems
+gem 'concurrent-ruby'
+
 # Web app related
 gem 'econfig'
 gem 'pry' # to run console in production

@@ -80,6 +80,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  concurrent-ruby
   database_cleaner
   dry-struct
   dry-types
