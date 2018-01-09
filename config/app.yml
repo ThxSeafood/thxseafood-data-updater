@@ -13,3 +13,4 @@ app_test:
 
 production:
   API_URL: 'https://thx-seafood.herokuapp.com'
+  DB_FILENAME: 'postgres://yipokzqwnfanrn:b8e07812d4a98594e49ddd285d69cc11cce1fe874768f35ad0f36fc0d350b246@ec2-54-197-224-52.compute-1.amazonaws.com:5432/d5oe2g6sjlc0sm'

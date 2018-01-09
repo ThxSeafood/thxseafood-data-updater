@@ -25,6 +25,7 @@ module ThxSeafood
 
     configure :production do
       # Use Heroku's DATABASE_URL environment variable
+      ENV['DATABASE_URL'] = config.DB_FILENAME
     end
 
     configure do

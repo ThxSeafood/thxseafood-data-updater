@@ -6,7 +6,7 @@ task :console do
 end
 
 USERNAME = 'as10896'
-IMAGE = 'thxseafood-data_updater.rb'
+IMAGE = 'thxseafood-data-updater.rb'
 VERSION = '0.1.0'
 WORKER_APP = 'ruby application/data_updater.rb'
 
